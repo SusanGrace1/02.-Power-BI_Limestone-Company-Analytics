@@ -36,6 +36,25 @@ This approach allowed for the creation of a comprehensive dataset, facilitating 
 
 You can view the [Python script](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/BI_LimestoneProject.ipynb) used.
 
+### Tools and Technologies
+
+**Data Analysis and Visualization:**
+
+* Power BI Desktop
+
+**Data Generation and Manipulation:**
+
+* Python
+* Pandas (Python library)
+* Faker (Python library)
+
+**Version Control and Collaboration:**
+
+* Git
+* GitHub
+
+### 
+
 
 
 
