@@ -34,7 +34,7 @@ The data used in this Power BI project is AI-generated, simulating two years of 
 
 This approach allowed for the creation of a comprehensive dataset, facilitating the analysis of sales trends, production efficiency, and cost management within the Power BI environment.
 
-You can view the Python script used
+You can view the [Python script](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/BI_LimestoneProject.ipynb) used.
 
 
 
