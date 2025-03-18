@@ -60,10 +60,21 @@ The following screenshots showcase the key pages of the Power BI report, providi
 
 The following screenshots showcase the key pages of the Power BI report, providing a visual overview of the analysis:
 
-### Overview Page
+### 1. Overview Page
 
-[Link to your Overview Page Screenshot]
-*Briefly mention the key focus of this page (e.g., High-level comparison of 2023 and 2024 performance).*
+![Performance Overview Page Screenshot](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/1.%20Overview%20Page.jpg)
+
+**.Key Insights (2023 vs 2024 Performance):**
+
+- Strong Profit Growth: Total Profit increased significantly (13.69%), indicating improved financial health.
+- Revenue Up: Total Revenue grew by 6.02%, suggesting increased sales or pricing power.
+- Stable Production, Improved Efficiency: Tonnage Produced remained consistent, while Average Production Cost per Ton decreased (-0.98%), highlighting gains in operational efficiency.
+
+**Profit Trend Volatility:**
+- Monthly profit showed fluctuations in both years, warranting further investigation into underlying causes. However, 2024 generally outperformed 2023, especially towards the end of the year.
+
+**Regional Disparities:**
+- Sales performance varied significantly by region, with the Coast region being a clear leader.
 
 ### Profitability Analysis Page
 
