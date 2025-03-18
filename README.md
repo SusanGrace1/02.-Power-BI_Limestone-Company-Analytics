@@ -60,11 +60,11 @@ The following screenshots showcase the key pages of the Power BI report, providi
 
 The following screenshots showcase the key pages of the Power BI report, providing a visual overview of the analysis:
 
-### 1. Overview Page
+### 1. Performance Overview Report
 
 ![Performance Overview Page Screenshot](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/1.%20Overview%20Page.jpg)
 
-**.Key Insights (2023 vs 2024 Performance):**
+**Key Insights (2023 vs 2024 Performance):**
 
 - Strong Profit Growth: Total Profit increased significantly (13.69%), indicating improved financial health.
 - Revenue Up: Total Revenue grew by 6.02%, suggesting increased sales or pricing power.
@@ -76,12 +76,27 @@ The following screenshots showcase the key pages of the Power BI report, providi
 **Regional Disparities:**
 - Sales performance varied significantly by region, with the Coast region being a clear leader.
 
-### Profitability Analysis Page
+### 2. Profitability Analysis Report
 
-[Link to your Profitability Analysis Page Screenshot]
-*Briefly mention the key focus of this page (e.g., Analysis of profit trends and profitability by product and customer type).*
+![Profitability Analysis Screenshot](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/2.%20Profitability%20Analysis.jpg)
 
-### Sales Performance Page
+**Key Insights**
+
+This page provides a deeper dive into the profitability of the limestone company, segmented by key factors.
+
+**Profit by Limestone Type:** Agricultural limestone is the most profitable type, significantly outperforming High-Calcium and Dolomitic varieties. This suggests a strong market demand or higher margins for agricultural products.
+
+**Profit by Customer Type:** Construction customers generate the highest profit, followed by Agriculture and then Industrial. This highlights the importance of the construction sector to the company's profitability.
+
+**Profit per Ton Trend:** The Profit per Ton fluctuates throughout the year for both 2023 and 2024. However, 2024 generally shows a higher Profit per Ton, particularly in the later months, indicating improved profitability per unit sold year-over-year.
+
+**Profit by Region (2024):** The Coast region is the dominant contributor to profit, followed by Central and Nairobi. Eastern and Rift Valley regions contribute the least. This highlights significant regional disparities in profitability.
+
+**Overall Analysis:**
+
+The profitability analysis indicates that the company's profitability has improved in 2024 compared to 2023, as seen in the "Profit per Ton" trend. Agricultural limestone and Construction customers are key drivers of profit. There are significant regional differences in profitability, with the Coast region being the most lucrative. Further investigation could explore the reasons behind the success of agricultural limestone and the Coast region, as well as strategies to improve profitability in other areas and understand the seasonal fluctuations in profit per ton.
+
+### 3. Sales Performance Page
 
 [Link to your Sales Performance Page Screenshot]
 *Briefly mention the key focus of this page (e.g., Examination of sales trends, regional performance, and top customers).*
