@@ -62,7 +62,7 @@ The following screenshots showcase the key pages of the Power BI report, providi
 
 ### 1. Performance Overview Report
 
-![Performance Overview Page Screenshot](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/1.%20Overview%20Page.jpg)
+![Performance Overview Page Screenshot](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/1.%20Overview%20page.jpg)
 
 **Key Insights (2023 vs 2024 Performance):**
 
@@ -78,7 +78,7 @@ The following screenshots showcase the key pages of the Power BI report, providi
 
 ### 2. Profitability Analysis Report
 
-![Profitability Analysis Screenshot](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/2.%20Profitability%20Analysis.jpg)
+![Profitability Analysis Screenshot]()
 
 **Key Insights**
 
