@@ -98,8 +98,23 @@ The profitability analysis indicates that the company's profitability has improv
 
 ### 3. Sales Performance Page
 
-![alt text](image.jpg)
-*Briefly mention the key focus of this page (e.g., Examination of sales trends, regional performance, and top customers).*
+![Sales Performance Screenshot](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/3.%20Sales%20Performance.jpg)
+
+**Key Insights**
+This page provides a comprehensive overview of the company's sales performance, broken down by key dimensions.
+
+**Sales Trend Over Time:** While both 2023 and 2024 show fluctuations, 2024 generally exhibits higher sales revenue, particularly in the latter half of the year. This indicates positive sales growth year-over-year.
+
+**Regional Sales (2024):** The Western region is the top sales generator, followed closely by Central and Coast. Rift Valley shows the lowest sales volume, highlighting significant regional disparities in market penetration or demand.
+
+**Top 5 Customers:** Kilimanjaro Logistics is the leading customer by a significant margin, followed by Uhuru Mining and Pwani Builders. This emphasizes the importance of these key accounts to the company's revenue stream.
+
+**Sales by Limestone Type:** Agricultural limestone accounts for the largest share of sales revenue (36.54%), closely followed by Dolomitic (36.12%). High-Calcium contributes a smaller portion (27.34%). This indicates the varying market demand for different limestone products.
+
+**Overall Analysis:**
+
+The Sales Performance page reveals a positive sales trajectory for the company, with 2024 outperforming 2023. However, sales are heavily concentrated in specific regions and among a few key customers. Agricultural and Dolomitic limestone are the primary drivers of sales revenue. Further analysis could explore strategies to increase sales in underperforming regions, diversify the customer base, and understand the factors driving the success of the top-selling limestone types. The consistent growth in the latter part of 2024 suggests successful strategies or market factors during that period.
+
 
 ### Production Efficiency Page
 
