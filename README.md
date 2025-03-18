@@ -98,7 +98,7 @@ The profitability analysis indicates that the company's profitability has improv
 
 ### 3. Sales Performance Page
 
-[Link to your Sales Performance Page Screenshot]
+![alt text](image.jpg)
 *Briefly mention the key focus of this page (e.g., Examination of sales trends, regional performance, and top customers).*
 
 ### Production Efficiency Page
