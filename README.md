@@ -53,7 +53,39 @@ You can view the [Python script](https://github.com/SusanGrace1/BI_LimestoneAnal
 * Git
 * GitHub
 
-### 
+### Power BI Report Visuals
+
+The following screenshots showcase the key pages of the Power BI report, providing a visual overview of the analysis:
+### Key Report Pages
+
+The following screenshots showcase the key pages of the Power BI report, providing a visual overview of the analysis:
+
+### Overview Page
+
+[Link to your Overview Page Screenshot]
+*Briefly mention the key focus of this page (e.g., High-level comparison of 2023 and 2024 performance).*
+
+### Profitability Analysis Page
+
+[Link to your Profitability Analysis Page Screenshot]
+*Briefly mention the key focus of this page (e.g., Analysis of profit trends and profitability by product and customer type).*
+
+### Sales Performance Page
+
+[Link to your Sales Performance Page Screenshot]
+*Briefly mention the key focus of this page (e.g., Examination of sales trends, regional performance, and top customers).*
+
+### Production Efficiency Page
+
+[Link to your Production Efficiency Page Screenshot]
+*Briefly mention the key focus of this page (e.g., Insights into production costs, tonnage, and efficiency metrics).*
+
+### Operational Costs Page
+
+[Link to your Operational Costs Page Screenshot]
+*Briefly mention the key focus of this page (e.g., Breakdown of operational expenses by quarry and category).*
+
+**Note:** Click on the images to view them in full size.
 
 
 
