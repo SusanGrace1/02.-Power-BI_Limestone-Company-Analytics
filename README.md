@@ -117,10 +117,10 @@ The Sales Performance page reveals a positive sales trajectory for the company, 
 
 ### Operational Costs Page
 
-[Link to your Operational Costs Page Screenshot]
+![Operational Costs Screenshot ](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/4.%20Operational%20Costs.jpg)
 *Briefly mention the key focus of this page (e.g., Breakdown of operational expenses by quarry and category).*
 
-**Note:** Click on the images to view them in full size.
+**Note:** Click on the images to view them in full size. 
 
 
 
