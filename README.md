@@ -115,12 +115,6 @@ This page provides a comprehensive overview of the company's sales performance, 
 
 The Sales Performance page reveals a positive sales trajectory for the company, with 2024 outperforming 2023. However, sales are heavily concentrated in specific regions and among a few key customers. Agricultural and Dolomitic limestone are the primary drivers of sales revenue. Further analysis could explore strategies to increase sales in underperforming regions, diversify the customer base, and understand the factors driving the success of the top-selling limestone types. The consistent growth in the latter part of 2024 suggests successful strategies or market factors during that period.
 
-
-### Production Efficiency Page
-
-[Link to your Production Efficiency Page Screenshot]
-*Briefly mention the key focus of this page (e.g., Insights into production costs, tonnage, and efficiency metrics).*
-
 ### Operational Costs Page
 
 [Link to your Operational Costs Page Screenshot]
