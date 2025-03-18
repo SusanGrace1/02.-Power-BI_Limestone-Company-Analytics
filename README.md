@@ -78,7 +78,7 @@ The following screenshots showcase the key pages of the Power BI report, providi
 
 ### 2. Profitability Analysis Report
 
-![Profitability Analysis Screenshot]()
+![Profitability Analysis Screenshot](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/2.%20Profitability%20Analysis.jpg)
 
 **Key Insights**
 
