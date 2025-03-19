@@ -2,9 +2,14 @@
 
 ### Table of Contents
 
-- [Project Overview](#project overview)
-- [Project Goals](#project goals)
-- [Data Source](#data source)
+- [Project Overview](#project-overview).
+- [Project Goals](#project-goals)
+- [Data Source](#data-source)
+- [Tools and Technologies](#tools-and-technologies)
+- [Power BI Report Visuals](#power-bi-reportRecommendations for the Limestone Company.__Recommendations for the Limestone Company. [Recommendations for the Limestone Company.
+
+
+
 
 
 ### Project Overview
@@ -59,9 +64,6 @@ You can view the [Python script](https://github.com/SusanGrace1/BI_LimestoneAnal
 * GitHub
 
 ### Power BI Report Visuals
-
-The following screenshots showcase the key pages of the Power BI report, providing a visual overview of the analysis:
-### Key Report Pages
 
 The following screenshots showcase the key pages of the Power BI report, providing a visual overview of the analysis:
 
