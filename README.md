@@ -118,10 +118,63 @@ The Sales Performance page reveals a positive sales trajectory for the company, 
 ### Operational Costs Page
 
 ![Operational Costs Screenshot ](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/4.%20Operational%20Costs.jpg)
-*Briefly mention the key focus of this page (e.g., Breakdown of operational expenses by quarry and category).*
+
+**Key Insights**
+
+**Significant Cost Increases:** Both total costs and cost per ton produced have increased by approximately 23% from 2023 to 2024. This indicates a substantial rise in operational expenses, which requires further investigation.
+
+**Equal Quarry Costs:** All three quarries (A, B, and C) have nearly identical operational costs. This suggests a consistent cost structure across the quarries or possibly centralized cost management.
+
+**Cost Breakdown by Category:** The stacked bar chart shows the cost distribution across fuel, labor, maintenance, and transportation for each quarry. Fuel and labor appear to be the dominant cost categories.
+
+**Monthly Cost Fluctuations:** The monthly operational costs line chart reveals significant fluctuations throughout the year for both 2023 and 2024. 2024 shows a higher average cost throughout the year. There are some dramatic spikes and drops that would warrant further investigation.
+
+**Overall Analysis:**
+
+The "Operational Costs" page highlights a significant increase in operational expenses from 2023 to 2024. The consistent costs across quarries suggest a uniform cost structure. The monthly cost fluctuations indicate potential operational inefficiencies or external factors affecting costs. The increased costs need to be investigated to see if they are justifiable. Further analysis should explore cost efficiency metrics and benchmarking to provide a more comprehensive view of operational performance.
 
 **Note:** Click on the images to view them in full size. 
 
+### Recommendations for the Limestone Company.
+
+The following recommendations are derived from the analysis of the company's performance overview, profitability, sales performance, production efficiency, and operational costs.
+
+**1. Profitability Enhancement Strategies:**
+
+- Prioritize the production and sales of agricultural limestone, which demonstrates the highest profitability. Conduct market research to understand the drivers of its success and explore opportunities to expand its market share.
+- Focus on serving the construction customer segment, which is the most profitable customer type. Develop targeted sales and marketing campaigns to strengthen relationships with existing construction clients and attract new ones.
+- Analyze the Profit per Ton trend to identify the causes of monthly fluctuations. Investigate factors such as pricing strategies, production costs, and sales volume to implement strategies that stabilize and optimize profitability.
+  
+**2. Sales Performance Optimization:**
+
+- Leverage the strong sales performance in the Western, Central, and Coast regions by replicating successful strategies in underperforming regions like Rift Valley. Conduct market analysis to understand the unique challenges and opportunities in each region and tailor sales approaches accordingly
+- Maintain strong relationships with key accounts, particularly Kilimanjaro Logistics, Uhuru Mining, and Pwani Builders, as they contribute significantly to revenue. Explore opportunities to expand business with these clients and diversify the customer base to reduce reliance on a few major accounts.
+- Given that Agricultural and Dolomitic limestone are the top-selling products, ensure that production capacity aligns with demand. Monitor market trends to adjust production strategies and optimize inventory management.
+  
+**3. Production Efficiency Improvement:**
+
+- Investigate the factors contributing to the decrease in Average Production Cost per Ton in 2024. If attributable to specific process improvements or cost-saving measures, implement these across all quarries to further enhance efficiency.
+- Analyze the monthly tonnage produced and production cost per ton trends for both 2023 and 2024 to identify opportunities for process optimization. Implement strategies to minimize cost fluctuations and maximize production output.
+- Establish key efficiency metrics, such as "Tonnage Produced per Hour" or "Uptime," to gain a more comprehensive understanding of operational efficiency. Set targets and track performance against these metrics to drive continuous improvement.
+  
+**4. Operational Cost Management:**
+
+- Given the significant increase in Total Costs and Cost Per Ton Produced from 2023 to 2024, conduct a thorough review of operational expenses. Identify the drivers of this increase and implement cost-saving measures to improve profitability.
+- Analyze the cost breakdown by category for each quarry, with a focus on fuel and labor costs, which appear to be the dominant categories. Explore opportunities to negotiate better rates with suppliers, optimize labor utilization, and implement energy-efficient practices.
+- Investigate the causes of monthly operational cost fluctuations. Identify factors such as seasonal variations, maintenance schedules, or external factors impacting costs and implement strategies to mitigate their impact.
+  
+**5. Data-Driven Decision Making:**
+
+- Implement a system for continuous monitoring of key performance indicators (KPIs) across all areas of the business. Regularly review the dashboards and reports to identify trends, track progress against targets, and make informed decisions.
+- Establish a process for benchmarking performance against industry standards or competitors. Identify areas where the company is lagging and implement strategies to close the gap.
+
+### Conclusion
+
+The analysis of operational costs has revealed a significant increase in both total costs and cost per ton produced from 2023 to 2024, indicating a substantial rise in operational expenses. This trend warrants immediate attention to mitigate potential impacts on profitability and financial health. The consistent costs across quarries suggest a uniform cost structure, while the monthly cost fluctuations point to potential operational inefficiencies or external factors affecting costs.
+
+The recommendations provided address these findings by focusing on profitability enhancement, sales performance optimization, production efficiency improvement, and operational cost management. Implementing these recommendations will enable the company to gain better control over its costs, enhance operational efficiency, and ultimately improve its financial performance.
+
+It is crucial to adopt a data-driven approach to decision-making, continuously monitor key performance indicators, and benchmark performance against industry standards. By taking proactive steps to address the identified issues and implement the recommended strategies, the company can ensure sustainable growth and maintain a competitive edge in the market.
 
 
 
