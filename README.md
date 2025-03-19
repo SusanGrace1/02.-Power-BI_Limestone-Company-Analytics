@@ -6,7 +6,8 @@
 - [Project Goals](#project-goals)
 - [Data Source](#data-source)
 - [Tools and Technologies](#tools-and-technologies)
-- [Power BI Report Visuals](#power-bi-reportRecommendations for the Limestone Company.__Recommendations for the Limestone Company. [Recommendations for the Limestone Company.
+- [Power BI Report Visuals](#power-bi-report-visuals)
+- 
 
 
 
