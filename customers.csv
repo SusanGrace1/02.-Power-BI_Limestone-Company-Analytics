@@ -1,0 +1,51 @@
+Customer ID,Customer Name,Customer Type,Location,County
+101,Uhuru Mining,Agriculture,Embu,Narok
+102,Upendo Transport,Construction,Voi,Turkana
+103,Kilimanjaro Logistics,Construction,Busia,Samburu
+104,Pwani Builders,Construction,Machakos,Kisii
+105,Simba Steel Works,Industrial,Mombasa,Narok
+106,Mkulima Fertilizers,Construction,Wajir,Kilifi
+107,Nguzo Agriculture,Agriculture,Kiambu,Kisii
+108,Savannah Energy,Industrial,Bungoma,Tana River
+109,Mlima Agricultural Supplies,Construction,Kisumu,Nandi
+110,Maisha Water Systems,Construction,Narok,Kisii
+111,Twiga Enterprises,Construction,Narok,Siaya
+112,Savannah Energy,Industrial,Narok,Nandi
+113,Kilimanjaro Logistics,Agriculture,Kisumu,Narok
+114,Uhuru Mining,Construction,Mombasa,Siaya
+115,Nairobi Cement Co.,Industrial,Kericho,Nairobi
+116,Kenya Industrial Solutions,Construction,Nairobi,Embu
+117,Nguzo Agriculture,Construction,Diani Beach,Narok
+118,Kilimanjaro Logistics,Industrial,Narok,Kericho
+119,Uzalishaji Industries,Industrial,Busia,Homa Bay
+120,Maisha Water Systems,Agriculture,Vihiga,Eldoret
+121,Simba Steel Works,Construction,Moyale,Wajir
+122,Harambee Mining,Construction,Mombasa,West Pokot
+123,Maisha Water Systems,Construction,Migori,Siaya
+124,Nairobi Cement Co.,Construction,Meru,Kakamega
+125,Mwangaza Power,Construction,Kericho,Makueni
+126,Pwani Builders,Construction,Isiolo,Machakos
+127,Mkulima Fertilizers,Construction,Wajir,Narok
+128,Simba Steel Works,Construction,Uasin Gishu,Mandera
+129,Mkulima Fertilizers,Agriculture,Lodwar,Eldoret
+130,Nairobi Cement Co.,Industrial,Diani Beach,Nakuru
+131,Uhuru Mining,Construction,Lamu,Eldoret
+132,Mlima Agricultural Supplies,Agriculture,Marigat,Meru
+133,Kenya Industrial Solutions,Agriculture,Lodwar,Makueni
+134,Jambo Construction Ltd,Industrial,Migori,Baringo
+135,Maisha Water Systems,Industrial,Nakuru,Baringo
+136,Uzalishaji Industries,Construction,Nairobi,Kilifi
+137,Rift Valley Farms,Industrial,Machakos,Lamu
+138,Mlima Agricultural Supplies,Construction,Garsen,Mandera
+139,Kilimanjaro Logistics,Agriculture,Siaya,Marsabit
+140,Mkulima Fertilizers,Industrial,Embu,Busia
+141,Simba Steel Works,Industrial,Siaya,Mandera
+142,Harambee Mining,Agriculture,Isiolo,Mombasa
+143,Chai Growers Co.,Agriculture,Kiambu,Mandera
+144,Uhuru Mining,Agriculture,Garissa,Kajiado
+145,Pwani Builders,Agriculture,Kiambu,Kajiado
+146,Uzalishaji Industries,Industrial,Makueni,Busia
+147,Nguzo Agriculture,Industrial,Moyale,Mandera
+148,Daima Construction,Agriculture,Meru,West Pokot
+149,Mkulima Fertilizers,Industrial,Wajir,Embu
+150,Twiga Enterprises,Industrial,Nakuru,Nandi
