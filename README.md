@@ -7,11 +7,8 @@
 - [Data Source](#data-source)
 - [Tools and Technologies](#tools-and-technologies)
 - [Power BI Report Visuals](#power-bi-report-visuals)
-- 
-
-
-
-
+- [Recommendations for the Limestone Company.](#recommendations-for-the-limestone-company)
+- [Conclusion](#conclusion)
 
 ### Project Overview
 
