@@ -44,6 +44,16 @@ This approach allowed for the creation of a comprehensive dataset, facilitating 
 
 You can view the [Python script](https://github.com/SusanGrace1/BI_LimestoneAnalytics/blob/main/BI_LimestoneProject.ipynb) used.
 
+Here are the Excel Data files created for this project: 
+
+[Sales Data](https://github.com/SusanGrace1/02.-Power-BI_Limestone-Company-Analytics/blob/main/sales.csv)
+
+[Customers Data](https://github.com/SusanGrace1/02.-Power-BI_Limestone-Company-Analytics/blob/main/customers.csv)
+
+[Production Data](https://github.com/SusanGrace1/02.-Power-BI_Limestone-Company-Analytics/blob/main/production.csv)
+
+[Operational Costs Data](https://github.com/SusanGrace1/02.-Power-BI_Limestone-Company-Analytics/blob/main/costs.csv)
+
 ### Tools and Technologies
 
 **Data Analysis and Visualization:**
